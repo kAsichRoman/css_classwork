@@ -1,0 +1,15 @@
+body {
+	background: green;
+}
+h1 {
+	color: blue;
+}
+div {
+	width: 200px;  /* ширина блока */
+	height: 200px;  /* высота блока */
+	background: black;  /* фон блока */
+	margin: 5px;  /* Отступ от елемента top,botton,left,right */
+}
+.white {
+	background: #ffff;
+}
